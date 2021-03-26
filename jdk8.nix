@@ -12,3 +12,4 @@ in {
     enable = true;
     package = myjdk
   };
+  }
