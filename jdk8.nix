@@ -11,5 +11,5 @@ in {
   programs.java = {
     enable = true;
     package = myjdk
-  };
+  ;
   }
