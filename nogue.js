@@ -3,7 +3,7 @@ import function m21.yml
 import function ADSCVIVE.ts
 import JAVA.NOGUE function 
 import JAVA.NOGUE(!1) function
-{
+
     {
 A brings '11' and '22' 
 A by 1 number seq in JAVA.NOGUE
