@@ -11,7 +11,7 @@ This document includes descriptions of those new features and enhancements that 
 The descriptions also identify potential compatibility issues that you might encounter when migrating to JDK 16.
 
 
-<img width="750" alt="169989991_875313436650063_7395772672920357601_n.jpg (116.3 kB)" src="https://img.esa.io/uploads/production/attachments/17596/2021/04/07/101590/2dfc999c-97e4-4b73-ab32-a28e5e88fdb3.jpg">
+
 
 | JAVA.NOGUE | jdk.data | DATE|
 | -------- | -------- | -------- |
