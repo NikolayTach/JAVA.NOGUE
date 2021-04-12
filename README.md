@@ -26,20 +26,17 @@ The descriptions also identify potential compatibility issues that you might enc
 using container compilatory to compile the inventrory `bobo1.c`.
 
 ---
-
-`{
-      "data": [
-           {
-                 "{#SERVER_DOMAIN}" :  "JAVA.NOGUE",
-                 "{#BETA}" :  "1!"
-        },`
-        
-        
-  
-  Low-level customizing `nogue.json` packs on Zabbix engine.
+Low-level customizing `nogue.json` packs on Zabbix engine.
 Overriding the jdk8 certificate store is possible by overriding the cacert parameter of the package:
 `jdf8.nix`
 [JAVA.NOGUE MAIN PACK RECORDS](https://raw.githubusercontent.com/NikolayTach/JAVA.NOGUE/main/nogue.json)
 [JAVA.NOGUE MANAGE PACK](url)
 
----
+
+```{
+      "data": [
+           {
+                 "{#SERVER_DOMAIN}" :  "JAVA.NOGUE",
+                 "{#BETA}" :  "1!"
+        },
+  
