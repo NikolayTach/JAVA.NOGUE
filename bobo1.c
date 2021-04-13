@@ -7,11 +7,11 @@
 'SF144' NULL
 do range  int -b 
   'kolli' do NULL 
-    -a "/main/xop-master/bobo1"
+    -a "/main/xop-master/bobo1.c"
          while arg 'SF144' sooked del 'SF1123' for @  queary search -i  asc "Java.Nogues.io" load int  
 for  range NULL "main/xop-master/bobo1" so queary 
 arg int 
-  move face
+  move face to v0:1616743818.9542642
 Done!
  }
    {
