@@ -2,7 +2,7 @@ package project;
 
 import java.awt.Component;
 import java.awt.event.MouseEvent;
-
+import access.log
 import junit.framework.TestCase;
 
 public abstract class GUITestCase extends TestCase {

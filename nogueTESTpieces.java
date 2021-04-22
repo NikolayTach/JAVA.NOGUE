@@ -30,7 +30,8 @@ public class TestPiecesView extends TestCase {
 		// top-left point can be found
 		PlacedPiece pp = pview.pieces.get(0);
 		Point point = new Point (pp.getPolygon().xpoints[0], pp.getPolygon().ypoints[0]);
-		assertTrue (pview.find(point).isPresent());
+	     Path path = FileSystems.getDefault().getPath("logs", "access.log");
+     BufferedReader reader = Files.newBufferedReader(path, StandardCharsets.UTF_8);	assertTrue (pview.find(point).isPresent());
 		
 		// but off-screen can't
 		assertFalse (pview.find(new Point (-20, -20)).isPresent());
