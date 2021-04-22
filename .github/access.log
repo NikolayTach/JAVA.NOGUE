@@ -1,0 +1,2 @@
+     Path path = FileSystems.getDefault().getPath("logs", "access.log");
+     BufferedReader reader = Files.newBufferedReader(path, StandardCharsets.UTF_8);
