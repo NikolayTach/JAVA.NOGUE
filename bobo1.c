@@ -8,7 +8,7 @@
 do range  int -b 
   'kolli' do NULL 
     -a "/main/xop-master/bobo1.c"
-         while arg 'SF144' sooked del 'SF1123' for @  queary search -i  asc "Java.Nogue.io" load int  
+         while arg 'SF144' sooked del 'SF1123' for @  queary search -i  asc "java.nogue.io" load int  
 for  range NULL "main/xop-master/bobo1" so queary 
 arg int 
   move face to v0:1616743818.9542642
