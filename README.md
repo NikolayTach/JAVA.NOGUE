@@ -34,6 +34,6 @@ Overriding the jdk8 certificate store is possible by overriding the cacert param
 ```{
       "data": [
            {
-                 "{#SERVER_DOMAIN}" :  "@NOGUE",
+                 "{#SERVER_DOMAIN}" :  "@nogue.io",
                  "{#BETA}" :  "1!"
         },
