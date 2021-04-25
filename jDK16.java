@@ -6,7 +6,7 @@ import access.log
 import junit.framework.TestCase;
 
 {
-import function arrGuestList(01);extandedArrayFunction to NullFunction
+public Class function arrGuestList(01);extandedArrayFunction to NullFunction
 Path path = FileSystems.getDefault().getPAth("logs", "access.log");
 BufferedReader reader = Files.newBudderedREader(path, StandardCharsets.UTF_8);
 (++i < null ), 
