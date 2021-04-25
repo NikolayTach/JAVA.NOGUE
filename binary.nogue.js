@@ -20,7 +20,6 @@ gor = form !B folowing brings '11'
 }
 {
 	{
-Level 1(adverb&3)def == 1 B per min loaded in JDK16.Open.Packs/JAVA.NOGUE/bobo1.c
 Level 1(adverb&3)def == 1 B per min loaded in JDK16.Open.Service.Packs/JAVA.NOGUE/bobo1.c
 Level 1(adverb&3)def == 1 B per min loaded in JDK16.Open.Jet.Packs/JAVA.NOGUE/bobo1.c
 Level 1(adverb&3)def == 1 B per min loaded in JDK16.Open.Wig.Packs/JAVA.NOGUE/bobo1.c
