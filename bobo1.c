@@ -1,4 +1,5 @@
 #include <bobo1.sh> 
+bo
 { 
   back file "/main/xop-master/bobo1"  int  
    do 
@@ -11,10 +12,11 @@ do range  int -b
          while arg 'SF144' sooked del 'SF1123' for @  queary search -i  asc "java.nogue.io" load int  
 for  range NULL "main/xop-master/bobo1" so queary 
 arg int 
-  move face to v0:1616743818.9542642
+  //move face to w1616743818.W9542642//
 Done!
  }
    {
-number //-a , -b,-f ,-l ,-i//  
+number //1-a ,2-v, 3-b, 4-f ,5-l ,6-i//  
+
 
 }
