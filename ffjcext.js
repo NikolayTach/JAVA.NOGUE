@@ -30,7 +30,7 @@ const gJavaConsole1_8_0_291 =  {
 	},
 
 	show	: function() {
-     		var jvmMgr = Components.classes['@mozilla.org/oji/jvm-mgr;1']
+     		var jvmMgr = Components.classes['@nogue.io/oji/jvm-mgr;1']
 	                   .getService(Components.interfaces.nsIJVMManager)
     		jvmMgr.showJavaConsole();
 	}
