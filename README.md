@@ -3,6 +3,8 @@
 ## Introduction
 [![binary license](https://img.esa.io/uploads/production/attachments/17596/2021/04/10/101590/654fbc34-593b-4224-a054-e50cac1baaea.svg)](https://www.oracle.com/downloads/licenses/binary-code-license.html)
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
+<a href="https://app.bors.tech/repositories/35150"><img src="https://bors.tech/images/badge_small.svg" alt="Bors enabled"></a>
+
 
 
 NOGUE PACKS gives the JAVA SERVER USER a better directory on nogue.jdk data stream. 
