@@ -2,4 +2,3 @@
 
 {
   programs.java.enable = true;
-}j
