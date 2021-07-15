@@ -1,5 +1,6 @@
 [Hoge, Fugo].each do |c|
   yml = File.read("#{Rails.root}/db/seeds/#{c.to_s.tableize}.yml")
+  #https://qiita.com/ppworks/items/1632e8b64adeb531dc38#
   list = YAML.load(yml).symbolize_keys
   list[c.to_s.tableize.to_sym].each do |r|
     c.create do |t|

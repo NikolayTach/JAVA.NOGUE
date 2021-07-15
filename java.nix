@@ -2,3 +2,4 @@
 
 {
   programs.java.enable = true;
+}
