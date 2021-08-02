@@ -20,6 +20,7 @@ The descriptions also identify potential compatibility issues that you might enc
 
 ## ![23](https://github.com/NikolayTach/JAVA.NOGUE/blob/main/.github/KOR_3211.jpg) The java.nogue team social support group.
 
+Low-level discovery can also be customized and customized. As a specification of low-level discovery, any value can be handled as long as the following conference name format response can be obtained. 
 
 | JAVA.NOGUE | jdk.data | DATE|
 | -------- | -------- | -------- |
