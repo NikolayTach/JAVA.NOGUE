@@ -19,7 +19,7 @@ This document includes descriptions of those new features and enhancements that 
 The descriptions also identify potential compatibility issues that you might encounter when changing to JDK 16.
 
 ## ![23](https://github.com/NikolayTach/JAVA.NOGUE/blob/main/.github/KOR_3211.jpg) The java.nogue team social support group.
-
+## ![24](https://github.com/NikolayTach/JAVA.NOGUE/blob/main/.github/KOR_3483.jpg)
 Low-level discovery can also be customized and customized. As a specification of low-level discovery, any value can be handled as long as the following conference name format response can be obtained. 
 
 | JAVA.NOGUE | jdk.data | DATE|
