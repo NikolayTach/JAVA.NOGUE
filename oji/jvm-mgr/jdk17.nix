@@ -1,8 +1,4 @@
 {pkgs, ...}:
-nixpkgs.config = {
-  allowUnfree = true;
-};
-environment.systemPackages = with pkgs; [ discord ]
 	{
  public.compound.Write.Full = true
 manage_set = set.value(24)
