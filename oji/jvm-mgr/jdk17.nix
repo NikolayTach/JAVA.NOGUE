@@ -2,7 +2,7 @@
 	{
  public.compound.Write.Full = true
  };
-	n/
+	
 	{
 manage.set = set.value(24)
 	#gpg-key = "nikolai.java@nogue.io"
