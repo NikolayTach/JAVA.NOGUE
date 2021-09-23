@@ -1,6 +1,10 @@
 {pkgs, ...}:
+nixpkgs.config = {
+  allowUnfree = true;
+};
+environment.systemPackages = with pkgs; [ discord ]
 	{
- public.compound.Write.Full(0)
+ public.compound.Write.Full()
 
 /
 manage_set = set.value(24)
